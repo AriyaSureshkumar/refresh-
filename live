@@ -29,6 +29,13 @@
       "description": "Developing new features for the application.",
       "team": ["John Doe", "Jane Smith"],
       "status": "In Progress"
+    },
+    {
+      "id": 102,
+      "name": "Project B",
+      "description": "Testing and bug fixing.",
+      "team": ["Michael Johnson"],
+      "status": "Completed"
     }
   ]
 }
