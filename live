@@ -21,15 +21,6 @@
       "department": "Quality Assurance",
       "salary": 70000
     }
-  ],
-  "projects": [
-    {
-      "id": 101,
-      "name": "Project A",
-      "description": "Developing new features for the application.",
-      "team": ["John Doe", "Jane Smith"],
-      "status": "In Progress"
-    }
 
   ]
 }
