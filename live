@@ -41,6 +41,34 @@
       "position": "Quality Assurance",
       "department": "Quality Assurance",
       "salary": 70000
+    },
+  {
+      "id": 7,
+      "name": "Michael Johnson",
+      "position": "Quality Assurance",
+      "department": "Quality Assurance",
+      "salary": 70000
+    },
+  {
+      "id": 8,
+      "name": "Michael Johnson",
+      "position": "Quality Assurance",
+      "department": "Quality Assurance",
+      "salary": 80000
+    },
+  {
+      "id": 9,
+      "name": "Michael Johnson",
+      "position": "Quality Assurance",
+      "department": "Quality Assurance",
+      "salary": 90000
+    },
+  {
+      "id": 10,
+      "name": "Michael Johnson",
+      "position": "Quality Assurance",
+      "department": "Quality Assurance",
+      "salary": 100000
     }
 
   ]
